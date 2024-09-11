@@ -1,6 +1,6 @@
 - 👋 Hi, my friends call me Freddy
 - 👀 I’m interested in Medicine, Neuroscience, Data Science & Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Machine Learning
 - ⚡ Favourite Hobby: Chess (frxdy on chess.com)
 
 <!---
